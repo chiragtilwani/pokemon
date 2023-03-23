@@ -1,0 +1,28 @@
+.Pokegame-h2{
+    color:white;
+    letter-spacing:2px;
+    text-shadow: 3px 3px rgba(0,0,0,.5);
+    text-align:center;
+    padding-top:5px;
+}
+.Pokegame-h5{
+    MARGIN-TOP:2PX;
+    color:white;
+    text-align:center;
+}
+.Winner{
+    text-align:center;
+    font-size:30px;
+    font-weight: 900;
+    text-shadow: 1px 1px rgba(0,0,0,.5);
+    letter-spacing:2px;
+    color:rgb(99, 218, 83);
+}
+.Loser{
+    text-align:center;
+    font-size:30px;
+    font-weight: 900;
+    text-shadow: 1px 1px rgba(0,0,0,.5);
+    letter-spacing:2px;
+    color:red;
+}

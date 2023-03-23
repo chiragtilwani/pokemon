@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.App{
+  background-color: darkcyan;
+}
+.App-span{
+  color:white;
+  letter-spacing:2px;
+  text-shadow: 3px 3px rgba(0,0,0,.5);
+  border-bottom:3px solid white;
+}
+.App-heading{
+  text-align: center;
+}

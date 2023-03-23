@@ -1,0 +1,30 @@
+.Pokecard{
+    border-radius:12px;
+    margin:1.5rem;
+    background-color:rgba(233, 233, 233, 0.801);
+    box-shadow:12px 12px 3px 5px rgba(0, 0, 0, .2);
+    padding:10px;
+}
+
+.Pokecard-img{
+    margin:10px;
+    border-radius:12px;
+    border:2px solid white;
+    background-color:rgba(32, 182, 182, 0.363);
+}
+.Pokecard-img:hover{
+    transform:scale(1.1);
+    opacity: 0.8;
+}
+.Pokecard-img{
+    transition:all .5s;
+}
+.Pokecard-name{
+    text-align: center;
+}
+.Pokecard-list{
+    list-style: none;
+    font-size:large;
+    font-weight: 600;
+    margin-left:20%
+}
